@@ -1,0 +1,12 @@
+Name:  Tien Ho
+Level: Undergraduate
+OS:    OS X, Linux
+IDE:   CLions (development and debugging)
+
+To compile: make
+
+To run the peer: ./peer <port> <maxpeers> <peersfile>
+
+Note:
+<peersfile> can be "peersfile.txt" which is under the local directory.
+The users can substitute their own peersfile.

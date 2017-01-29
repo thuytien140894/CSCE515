@@ -1,0 +1,13 @@
+Name:  Tien Ho
+Level: Undergraduate
+OS:    OS X, Linux
+IDE:   CLions (development and debugging)
+
+To compile: make
+
+To run the iterative server: ./confserver
+To run the client: ./confclient x.x.x.x x
+
+Note:
+x.x.x.x is the IP address of the server
+x is the port number that the server is listenting to

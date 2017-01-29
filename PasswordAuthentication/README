@@ -1,0 +1,15 @@
+Name:  Tien Ho
+Level: Undergraduate 
+OS:    OS X, Linux
+IDE:   CLions (development and debugging)
+
+To compile: make
+ 
+To run the iterative server: ./IterAuthServer x user_record.txt
+To run the concurrent server: ./ConcAuthServer x user_record.txt 
+To run the client: ./AuthClient x.x.x.x x
+
+Note: 
+x.x.x.x is the IP address of the server
+x is the port number that the server is listenting to
+

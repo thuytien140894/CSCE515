@@ -1,0 +1,16 @@
+Name:  Tien Ho
+Level: Undergraduate
+OS:    OS X, Linux
+IDE:   CLions (development and debugging)
+
+To compile: make
+
+To run the server: ./echoserver <port> <children>
+
+To run the client: ./echoclient <servhost> <servport>
+
+Note:
+<port> specifies the port number to which the server is to bind.
+<children> specifies the number of child processes the server can fork_child.
+<servhost> specifies the hostname of the server.
+<servport> specifies the port number of the server.
